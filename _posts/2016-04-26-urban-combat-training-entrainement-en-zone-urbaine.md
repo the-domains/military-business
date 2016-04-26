@@ -1,27 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=ejILktuScYQ'
+inLanguage: null
+keywords: []
+description: 'Members of Operation REASSURANCE Land Task Force, Rotation 5, the Polish 25th Air Cavalry Brigade and 7th Coastal Defence Brigade take part in urban combat training, in the Drawsko Pomorskie Training Area, Poland on March 4 and 11, 2016.'
+datePublished: '2016-04-26T17:58:47.951Z'
+dateModified: '2016-04-26T17:58:36.044Z'
 author:
   - name: CF Combat Camera / Caméra de combat des FC
     url: 'https://www.youtube.com/user/CFCombatCamera'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: 'Members of Operation REASSURANCE Land Task Force, Rotation 5, the Polish 25th Air Cavalry Brigade and 7th Coastal Defence Brigade take part in urban combat training, in the Drawsko Pomorskie Training Area, Poland on March 4 and 11, 2016.'
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=ejILktuScYQ'
 title: Urban combat training / Entraînement en zone urbaine
-datePublished: '2016-04-26T16:47:44.839Z'
-dateModified: '2016-04-26T16:47:00.087Z'
-starred: false
 sourcePath: _posts/2016-04-26-urban-combat-training-entrainement-en-zone-urbaine.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+starred: true
 _type: VideoObject
 _context: 'http://schema.org'
 
