@@ -1,6 +1,6 @@
 name: Military Business
 favicon: null
-layout_spectrum: 0.7782106339000165
+layout_spectrum: 0.88999
 typography_spectrum: 0.03514242731034756
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.8061804247554392
+  brandStrength: 0.5
   lightness: 0.21154363779351115
-  saturation: 0.15443958877585828
-  rhythmicContrast: 0.5069030651357025
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 purpose: []
