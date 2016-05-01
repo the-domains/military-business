@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Marine Corps Warfighting Lab tests autonomous reconnaissance.
-datePublished: '2016-05-01T19:45:28.796Z'
-dateModified: '2016-05-01T19:45:04.916Z'
+datePublished: '2016-05-01T19:47:47.749Z'
+dateModified: '2016-05-01T19:47:10.121Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-01-marine-corps-warfighting-lab-tests-autonomous-reconnaissance.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-01-marine-corps-warfighting-lab-tests-autonomous-reconnaissance.md
-published: true
 url: marine-corps-warfighting-lab-tests-autonomous-reconnaissance/index.html
 _type: Article
 
