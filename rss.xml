@@ -4,7 +4,7 @@
         <description><![CDATA[Military Business]]></description>
         <link>http://military.business/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 17:35:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 19:46:48 GMT</lastBuildDate>
         <atom:link href="http://military.business/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Urban combat training / Entraînement en zone urbaine]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.youtube.com/watch?v=ejILktuScYQ</link>
             <guid isPermaLink="false">08ebf689-d890-4376-864b-d7b5b6e97364</guid>
             <pubDate>Tue, 26 Apr 2016 17:58:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Marine Corps Warfighting Lab tests autonomous reconnaissance.</p>]]></description>
+            <link>http://military.business/marine-corps-warfighting-lab-tests-autonomous-reconnaissance/index.html</link>
+            <guid isPermaLink="false">a92c92e1-e264-45a0-a94d-54c2a7db0132</guid>
+            <pubDate>Sun, 01 May 2016 19:45:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Future USS Delaware (SSN 791) Keel Laying]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=w3sBnWxlfeg</link>
             <guid isPermaLink="false">57d4c0a0-0bc8-4112-92c5-bb764bf58421</guid>
             <pubDate>Thu, 28 Apr 2016 18:40:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On Target Every Day: Talking SAPR with MCPON]]></title>
-            <description><![CDATA[<article><h1>On Target Every Day: Talking SAPR with MCPON</h1><p>As we mark the end of April and Sexual Assault Awareness and Prevention Month (SAAPM), MC2 L.J. Burleson spoke with MCPON Mike Stevens on the importance of utilizing prevention efforts to reduce sexual assault in the Navy. (U.S. Navy video/Released)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aac861997bef0dd81273e4f448a2525362f4bdf5.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=5WM_OlYSNx8</link>
-            <guid isPermaLink="false">3b127a6c-4964-4a5c-bada-194e3b4b886d</guid>
-            <pubDate>Wed, 27 Apr 2016 17:08:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
