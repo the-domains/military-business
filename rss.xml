@@ -4,7 +4,7 @@
         <description><![CDATA[Military Business]]></description>
         <link>http://military.business/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 18:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 18:21:44 GMT</lastBuildDate>
         <atom:link href="http://military.business/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Urban combat training / Entraînement en zone urbaine]]></title>
@@ -12,6 +12,20 @@
             <link>https://www.youtube.com/watch?v=ejILktuScYQ</link>
             <guid isPermaLink="false">08ebf689-d890-4376-864b-d7b5b6e97364</guid>
             <pubDate>Tue, 26 Apr 2016 17:58:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DARPA's "Sea Hunter" Submarine-Hunting Drone Warship ACTUV]]></title>
+            <description><![CDATA[<article><h1>DARPA's "Sea Hunter" Submarine-Hunting Drone Warship ACTUV</h1><p>The Anti-Submarine Warfare (ASW) Continuous Trail Unmanned Vessel (ACTUV) is an anti-submarine drone from DARPA. The ACTUV is aimed at improving the ability to detect and engage diesel-electric submarines, which are inexpensive and quieter in comparison to nuclear-powered submarines, and to negate the threat of adversaries building large numbers by creating anti-submarine tactics at one-tenth the cost of building a diesel submarine.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6a111610534b3f0ba0c0fde44b3cd3f9d0e451c.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=AqXP3WdfGPc</link>
+            <guid isPermaLink="false">7d13ac4d-c3bb-4b1d-97b8-3943d6a0d60b</guid>
+            <pubDate>Tue, 03 May 2016 18:21:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Female Leadership - CDR Cyndi Schwartz & LTJG April Amos, Perioperative Nurses]]></title>
+            <description><![CDATA[<article><h1>Female Leadership - CDR Cyndi Schwartz & LTJG April Amos, Perioperative Nurses</h1><p>Perioperative Nurses in the Navy Reserve have the opportunity to perform part-time service with full-time impact. CDR Cyndi Schwartz ands LTJG April Amos are both examples of those who joined the Navy to make a difference not only in their lives, but in the lives of others, here and around the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/129d38837db238063c1daf47022bfd0206fe8d1f.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=smG_vDRzQ_g</link>
+            <guid isPermaLink="false">fa5349ef-e704-4bc3-9901-b3a11b55b2bb</guid>
+            <pubDate>Tue, 03 May 2016 18:21:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MSAU| Marine Security Guard Security Augmentation Unit]]></title>
@@ -61,20 +75,6 @@
             <link>https://www.youtube.com/watch?v=vBXeTFADcYY</link>
             <guid isPermaLink="false">a453ec35-7369-4dbf-9d19-60a74dd6eb28</guid>
             <pubDate>Mon, 02 May 2016 17:27:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[31 Seconds, 31st CNO: Chess and Artificial Intelligence]]></title>
-            <description><![CDATA[<article><h1>31 Seconds, 31st CNO: Chess and Artificial Intelligence</h1><p>Chief of Naval Operations Adm. John Richardson talks about the U.S. Navy's future incorporation of artificial intelligence tech, by discussing chess, during a discussion with leaders and researchers at the Institute for Defense Analyses. (U.S. Navy video/Released)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba66953975b0716b8a7845ce43e91f7485bc5bb8.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=Ym2FcQSxKfs</link>
-            <guid isPermaLink="false">783f8286-1c01-47a6-a25e-e296071f5380</guid>
-            <pubDate>Mon, 02 May 2016 17:27:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Marine Corps Warfighting Lab tests autonomous reconnaissance.</p>]]></description>
-            <link>http://military.business/marine-corps-warfighting-lab-tests-autonomous-reconnaissance/index.html</link>
-            <guid isPermaLink="false">a92c92e1-e264-45a0-a94d-54c2a7db0132</guid>
-            <pubDate>Sun, 01 May 2016 19:47:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
